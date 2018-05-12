@@ -1,0 +1,36 @@
+_repo: Starvecrow-Farm_39138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: British author Stanley J. Weyman rose to literary fame with a series
+  of swashbuckling adventure tales. Over time, Weyman bridled against the constraints
+  of that genre and began to explore other settings. The novel Starvecrow Farm is
+  one of a series of domestic dramas that Weyman penned in a mid-career change of
+  direction. Fans of novels about English country life will love this finely wrought
+  rural romance.
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Elopement -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Starvecrow Farm
+url: http://www.gutenberg.org/ebooks/39138
